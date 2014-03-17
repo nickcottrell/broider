@@ -1,5 +1,8 @@
 broider
 =======
+## As in *em*broider... Get it? 
+Click [here](http://nickcottrell.info/ideas/wtf-is-istitch/) if you're terribly confused...
+
 
 Open Source Web Fonts
 ---------------------
